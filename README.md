@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Ph.D. candidate at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en), Portugal, working in **Computer Vision**.
+I'm a Ph.D. candidate at [Técnico Lisboa (University of Lisbon)](https://tecnico.ulisboa.pt/en), Portugal, working in **Computer Vision**.
 
 My research focuses on *3D reconstruction*, *SLAM*, and *robust estimation*, with an emphasis on building reliable methods for real-world perception and localization.
 
