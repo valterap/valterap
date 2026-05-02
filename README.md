@@ -2,9 +2,9 @@
 
 I'm a Ph.D. candidate at [Técnico Lisboa (University of Lisbon)](https://tecnico.ulisboa.pt/en), Portugal, working in **Computer Vision**.
 
-My research focuses on *3D reconstruction*, *SLAM*, and *robust estimation*, with an emphasis on building reliable methods for real-world perception and localization.
+My research focuses on *3D reconstruction*, *SLAM*, and *robust estimation* for real-world perception and localization.
 
-I develop algorithms and systems for visual localization, mapping, and 3D reconstruction, with a focus on real-time performance and robustness.
+I develop algorithms and systems for visual localization and mapping, with an emphasis on real-time performance and robustness.
 
 My most relevant publications with code:
 - [Repository TBA · Project TBA · Paper TBA] Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling, *Accepted at CVPR 2026*
