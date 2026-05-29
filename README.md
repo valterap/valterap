@@ -12,7 +12,7 @@ My research focuses on **3D Reconstruction**, **SLAM**, and **Robust Estimation*
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*.  
   [[Webpage](https://www.merl.com/research/highlights/slam-mer) · Paper TBA · Repository TBA]
 
-> **SAC-GNC: SAmple Consensus for adaptive Graduated Non-Convexity**. `Highlight paper (2.3%)`.  
+> **SAC-GNC: SAmple Consensus for adaptive Graduated Non-Convexity**. `Highlight paper (2.3%)`   
   **Valter Piedade**, Chitturi Sidhartha, José António Gaspar, Venu Madhav Govindu, Pedro Miraldo.  
   *IEEE/CVF International Conference on Computer Vision (ICCV), 2025*.  
   [[Webpage](https://www.merl.com/research/highlights/sac-gnc) · [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Piedade_SAC-GNC_SAmple_Consensus_for_adaptive_Graduated_Non-Convexity_ICCV_2025_paper.html) · [Code](https://github.com/merlresearch/sac-gnc)]
