@@ -10,7 +10,7 @@ My research focuses on **3D Reconstruction**, **SLAM**, and **Robust Estimation*
 > **Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling**.  
   **Valter Piedade**, Lalit Manam, Masashi Yamazaki, Pedro Miraldo.  
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*.  
-  [[Webpage](https://www.merl.com/research/highlights/slam-mer) · Paper TBA · Repository TBA]
+  [[Webpage](https://www.merl.com/research/highlights/slam-mer) · [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Piedade_Revisiting_Monocular_SLAM_with_Spatio-Temporal_Scene_Modeling_CVPR_2026_paper.html) · Repository TBA]
 
 > **SAC-GNC: SAmple Consensus for adaptive Graduated Non-Convexity**. `Highlight paper (2.3%)`   
   **Valter Piedade**, Chitturi Sidhartha, José António Gaspar, Venu Madhav Govindu, Pedro Miraldo.  
