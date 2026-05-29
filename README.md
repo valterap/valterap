@@ -4,8 +4,6 @@ I'm a Ph.D. candidate at [Técnico Lisboa (University of Lisbon)](https://tecnic
 
 My research focuses on **3D Reconstruction**, **SLAM**, and **Robust Estimation**. I am dedicated to designing and implementing high-performance algorithms that enable reliable, real-time perception and localization for real-world applications.
 
----
-
 ### 📚 Selected Publications
 *(All selected publications include open-source code/repositories)*
 
@@ -23,8 +21,6 @@ My research focuses on **3D Reconstruction**, **SLAM**, and **Robust Estimation*
   **Valter Piedade**, Pedro Miraldo.  
   *IEEE/CVF International Conference on Computer Vision (ICCV), 2023*.  
   [[Webpage](https://pmiraldo.github.io/projects/bansac/bansac.html) · [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Piedade_BANSAC_A_Dynamic_BAyesian_Network_for_Adaptive_SAmple_Consensus_ICCV_2023_paper.html) · [Code](https://github.com/merlresearch/BANSAC)]
-
----
 
 ### 🔗 Connect With Me
 
